@@ -30,3 +30,7 @@ bin/
 
 ### DataBase Properties ###
 src/main/resources/database.properties
+src/database.properties
+src.zip
+.idea/
+*.iml
